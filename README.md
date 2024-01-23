@@ -1,6 +1,6 @@
-# Customer Revenue Prediction Model with Flask Web Application
+# Customer Revenue Prediction Model with Django Web Application
 
-Welcome to the Customer Revenue Prediction model repository! This project aims to predict whether a customer is likely to bring revenue or not. Additionally, it includes a Flask web application for a user-friendly interface.
+Welcome to the Customer Revenue Prediction model repository! This project aims to predict whether a customer is likely to bring revenue or not. Additionally, it includes a Django web application for a user-friendly interface.
 
 ## Overview
 
